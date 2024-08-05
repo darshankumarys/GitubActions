@@ -1,0 +1,4 @@
+name: GitHub Actions Demo
+on:
+  schedule:
+    - cron: '15 6 * * 0'
